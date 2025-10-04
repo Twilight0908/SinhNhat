@@ -3,7 +3,7 @@ function login() {
     const message = document.getElementById('message');
 
     // Tên hợp lệ
-    const validUsername = "Trang";
+    const validUsername = "Nhi";
 
     if (username === validUsername) {
         // Chuyển hướng sang trang tiếp theo

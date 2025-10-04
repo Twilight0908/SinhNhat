@@ -1,5 +1,5 @@
-const contentLetterSrart_actived = "Hôm nay sinh nhật của ai nhỉ?" //Lời mở đầu cho bức thư
-const mainContentLetter = "Chúc mừng sinh nhật! Hôm nay là ngày của em, hãy vui vẻ và tận hưởng từng khoảnh khắc. Em là niềm tự hào của anh/chị, luôn mang lại niềm vui cho mọi người. Mong rằng mọi ước mơ của em sẽ trở thành hiện thực. Chúc em có một ngày thật đặc biệt và nhiều niềm vui!" //Nội dung của bức thư
+const contentLetterSrart_actived = "Hôm nay sinh nhật của ai nhỉ???" //Lời mở đầu cho bức thư
+const mainContentLetter = "Chúc mừng sinh nhật! Mong rằng mọi điều tốt đẹp nhất sẽ đến với bạn trong năm nay và luôn luôn ngập tràn hạnh phúc, sức khỏe. Mong rằng năm nay sẽ mang đến cho bạn những điều bất ngờ tuyệt vời nhất. Cảm ơn vì đã luôn là một phần quan trọng trong cuộc đời tôi!!!" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
